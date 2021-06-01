@@ -10,7 +10,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
-  },
+  },//hjjhvjhvjh
   "private": true,
   "dependencies": {
     "@angular/common": "~11.2.0",
